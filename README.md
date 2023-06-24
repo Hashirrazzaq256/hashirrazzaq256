@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hashir Razzaq</h1>
 <h3 align="center">A passionate Backend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Python/Flask**
+- 🔭 I’m currently working on **Python/Flask/Django**
 
 - 👯 I’m looking to collaborate on **some python projects**
 
