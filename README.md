@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python/Flask/Django<br><br>👯 I’m looking to collaborate on some python projects<br><br>👨‍💻 All of my projects are available at https://github.com/Hashirrazzaq256<br><br>💬 Ask me about Python, CSS, Javascript<br><br>📫 How to reach me: Hashirrazzaq256@gmail.com<br><br>
+🔭 I’m currently working on Python/Flask/Django<br><br>👯 I’m looking to collaborate on some python projects<br><br>👨‍💻 All of my projects are available at https://github.com/Hashirrazzaq256<br><br>💬 Ask me about Python, CSS, Javascript and Django<br><br>📫 How to reach me: Hashirrazzaq256@gmail.com<br><br>
 
 
 ## 🌐 Socials:
